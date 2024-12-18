@@ -1,0 +1,82 @@
+{
+  "name": "ft_vue_upc_consejeriaenf",
+  "version": "0.1.12",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@fullcalendar/core": "^6.1.13",
+    "@fullcalendar/daygrid": "^6.1.13",
+    "@fullcalendar/interaction": "^6.1.13",
+    "@fullcalendar/list": "^6.1.13",
+    "@fullcalendar/timegrid": "^6.1.13",
+    "@fullcalendar/vue3": "^6.1.13",
+    "@lyno/lib-jitsi-meet": "^2.6726.2",
+    "@mycure/vue-jitsi-meet": "^0.0.8",
+    "@vuepic/vue-datepicker": "^5.3.0",
+    "autoprefixer": "^10.4.17",
+    "axios": "^1.3.5",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5",
+    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue-next": "^0.16.6",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.2.0",
+    "date-fns": "^3.6.0",
+    "firebase": "^10.7.0",
+    "ft_vue_upc_consejeriaenf": "file:",
+    "jquery": "^3.7.1",
+    "jwt-decode": "^4.0.0",
+    "moment": "^2.30.1",
+    "pdf-vue3": "^1.0.12",
+    "pinia": "^2.0.34",
+    "postcss": "^8.4.33",
+    "swiper": "^11.0.6",
+    "vee-validate": "^4.9.6",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue3-carousel": "^0.3.1",
+    "vue3-datepicker": "^0.4.0",
+    "vue3-timepicker": "^1.0.0-beta.2",
+    "vue3-youtube": "^0.1.9",
+    "vuejs3-datepicker": "^1.0.19",
+    "vuetify": "^3.5.7",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "sass": "^1.61.0",
+    "sass-loader": "10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
